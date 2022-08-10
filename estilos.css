@@ -16,37 +16,37 @@
 .galeria_section .item1 {
   background-size: cover;
   background-position: center;
-  background-image: url(/img/1.jpg);
+  background-image: url(img/1.jpg);
 }
 .galeria_section .item2 {
   background-size: cover;
   background-position: center;
-  background-image: url(/img/2.jpg);
+  background-image: url(img/2.jpg);
 }
 .galeria_section .item3 {
   background-size: cover;
   background-position: center;
-  background-image: url(/img/3.jpg);
+  background-image: url(img/3.jpg);
 }
 .galeria_section .item4 {
   background-size: cover;
   background-position: center;
-  background-image: url(/img/4.jpg);
+  background-image: url(img/4.jpg);
 }
 .galeria_section .item5 {
   background-size: cover;
   background-position: center;
-  background-image: url(/img/5.jpeg);
+  background-image: url(img/5.jpeg);
 }
 .galeria_section .item6 {
   background-size: cover;
   background-position: center;
-  background-image: url(/img/6.jpg);
+  background-image: url(img/6.jpg);
 }
 .galeria_section .item7 {
   background-size: cover;
   background-position: center;
-  background-image: url(/img/7.jpg);
+  background-image: url(img/7.jpg);
 }
 
 .box_div i {
